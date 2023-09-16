@@ -1,1 +1,9 @@
-First complete foundry project done by following Patrick Collin's course
+# About
+
+This is a crowd sourcing app! It's also my first foundry project.
+
+# Getting Started
+
+## Requirements
+
+## Quickstart
